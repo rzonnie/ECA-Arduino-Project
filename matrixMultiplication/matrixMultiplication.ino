@@ -102,7 +102,20 @@ void setup() {
 }
 
 void loop() {
-  multiply< >(A, B, result);
+  // Initialize timing variable
+  unsigned long timeVariable = 0;
   
+  // Start counter
+  //timeVariable = micros();
+
+  // Calculate the multiplication 1000 times
+  for (size_t i = 0; i < 1000; i++) {
+    multiply< >(A, B, result);
+  }
+  //timeVariable = micros() - timeVariable;
+
+  //Serial.print("Used Time: ");
+  //Serial.println(timeVariable);
   printMatrixToSerial< >(result);
+  
 }

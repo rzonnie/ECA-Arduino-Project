@@ -83,7 +83,7 @@ void printMatrixToSerial(T& matrix) {
 }
 
 template<typename T, typename U, typename V>
-void multiply(T& A, U& B, V& C) {
+inline void multiply(T& A, U& B, V& C) {
   for (size_t i = 0; i < A.rows; i++) {
     for (size_t j = 0; j < B.cols; j++) {
       C.content[i][j] = 0;
@@ -92,6 +92,29 @@ void multiply(T& A, U& B, V& C) {
         // For more info, check section definition (last accessed 22-9-2018): https://en.wikipedia.org/wiki/Matrix_multiplication
         C.content[i][j] += A.content[i][r] * B.content[r][j];
       }
+      C.content[i][j] += (A.content[i][j] << 1);
+    }
+  }
+}
+
+template<typename T, typename U, typename V>
+inline void multiply2(T& A, U& B, V& C) {
+  for (size_t i = 0; i < A.rows; i++) {
+    for (size_t j = 0; j < B.cols; j++) {
+      C.content[i][j] = A.content[i][0] * B.content[0][j]
+        + A.content[i][1] * B.content[1][j]
+        + A.content[i][2] * B.content[2][j]
+        + A.content[i][3] * B.content[3][j]
+        + A.content[i][4] * B.content[4][j]
+        + A.content[i][5] * B.content[5][j]
+        + A.content[i][6] * B.content[6][j]
+        + A.content[i][7] * B.content[7][j]
+        + A.content[i][8] * B.content[8][j]
+        + A.content[i][9] * B.content[9][j]
+        + A.content[i][10] * B.content[10][j]
+        + A.content[i][11] * B.content[11][j]
+        + A.content[i][12] * B.content[12][j]
+        + (A.content[i][j] << 1);
     }
   }
 }
@@ -106,16 +129,16 @@ void loop() {
   unsigned long timeVariable = 0;
   
   // Start counter
-  //timeVariable = micros();
+  timeVariable = micros();
 
   // Calculate the multiplication 1000 times
   for (size_t i = 0; i < 1000; i++) {
     multiply< >(A, B, result);
   }
-  //timeVariable = micros() - timeVariable;
+  timeVariable = micros() - timeVariable;
 
-  //Serial.print("Used Time: ");
-  //Serial.println(timeVariable);
+  Serial.print("Used Time: ");
+  Serial.println(timeVariable);
   printMatrixToSerial< >(result);
   
 }

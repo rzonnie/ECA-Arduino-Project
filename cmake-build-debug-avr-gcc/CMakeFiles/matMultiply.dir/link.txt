@@ -1,0 +1,1 @@
+/usr/local/avr/bin/avr-g++   -std=gnu++14 -O0 -save-temps -g -gdwarf-3 -gstrict-dwarf   CMakeFiles/matMultiply.dir/main.cpp.obj CMakeFiles/matMultiply.dir/SoftwareSerial/Print.cpp.obj CMakeFiles/matMultiply.dir/SoftwareSerial/SoftwareSerial.cpp.obj CMakeFiles/matMultiply.dir/SoftwareSerial/Stream.cpp.obj CMakeFiles/matMultiply.dir/SoftwareSerial/WString.cpp.obj  -o matMultiply 

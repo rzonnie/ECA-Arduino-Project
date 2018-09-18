@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ECA-Arduino-Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matMultiply-atmega8.elf">
+				<Option output="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/matMultiply-atmega8.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DF_CPU=4000000UL"/>
+					<Add directory="/data/git/ECA-Arduino-Project/SoftwareSerial"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/include"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/include-fixed"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 matMultiply-atmega8.elf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matMultiply-atmega8.elf/fast">
+				<Option output="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/matMultiply-atmega8.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DF_CPU=4000000UL"/>
+					<Add directory="/data/git/ECA-Arduino-Project/SoftwareSerial"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/include"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/include-fixed"/>
+					<Add directory="/usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 matMultiply-atmega8.elf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="upload_eeprom">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 upload_eeprom"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="upload_matMultiply">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 upload_matMultiply"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matMultiply">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 matMultiply"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="get_calibration">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 get_calibration"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="get_status">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 get_status"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="get_fuses">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 get_fuses"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_fuses">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 set_fuses"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="set_calibration">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 set_calibration"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="disassemble_matMultiply">
+				<Option working_dir="/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 disassemble_matMultiply"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/Print.cpp">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/Print.h">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/SoftwareSerial.cpp">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/SoftwareSerial.h">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/Stream.cpp">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/Stream.h">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/WString.cpp">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/SoftwareSerial/WString.h">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/main.cpp">
+			<Option target="matMultiply-atmega8.elf"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/ArduinoToolchain.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/data/git/ECA-Arduino-Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

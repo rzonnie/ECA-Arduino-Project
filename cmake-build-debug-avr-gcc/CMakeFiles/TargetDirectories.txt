@@ -1,0 +1,12 @@
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/rebuild_cache.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/edit_cache.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/matMultiply-atmega8.elf.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/upload_eeprom.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/upload_matMultiply.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/matMultiply.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/get_calibration.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/get_status.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/get_fuses.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/set_fuses.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/set_calibration.dir
+/data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc/CMakeFiles/disassemble_matMultiply.dir

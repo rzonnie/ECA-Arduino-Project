@@ -1,0 +1,14 @@
+/usr/local/CLion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/avr/bin/avr-gcc -DCMAKE_CXX_COMPILER=/usr/local/avr/bin/avr-g++ -DCMAKE_TOOLCHAIN_FILE=ArduinoToolchain.cmake -G "CodeBlocks - Unix Makefiles" /data/git/ECA-Arduino-Project
+-- Current uploadtool is: avrdude
+-- Current programmer is: avrispmkII
+-- Current upload port is: usb
+-- Current uploadtool options are: 
+-- Current MCU is set to: atmega8
+-- Current H_FUSE is set to: 0xd9
+-- Current L_FUSE is set to: 0xc3
+-- Set CMAKE_FIND_ROOT_PATH to 
+-- Set CMAKE_SYSTEM_INCLUDE_PATH to /usr/local/avr/include
+-- Set CMAKE_SYSTEM_LIBRARY_PATH to /usr/local/avr/lib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data/git/ECA-Arduino-Project/cmake-build-debug-avr-gcc

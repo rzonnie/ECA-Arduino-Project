@@ -1,0 +1,595 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+                              CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj (__udivmodhi4)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+                              /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o (exit)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+                              CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj (__do_copy_data)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+                              CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj (__do_clear_bss)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+                              CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj (__do_global_ctors)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+                              CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj (__do_global_dtors)
+/usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+                              /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o) (__tablejump2__)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .group         0x0000000000000000        0xc CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .text          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000002000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+LOAD CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/libm.a
+START GROUP
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/libm.a
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/libc.a
+LOAD /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/libatmega8.a
+END GROUP
+                0x0000000000002000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x0000000000000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x46e
+ *(.vectors)
+ .vectors       0x0000000000000000       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000026                . = ALIGN (0x2)
+                0x0000000000000026                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000026        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000026                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000026                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000026                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000000000000026        0x2 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x0000000000000028                __ctors_end = .
+                0x0000000000000028                __dtors_start = .
+ *(.dtors)
+ .dtors         0x0000000000000028        0x2 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x000000000000002a                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000002a        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+                0x000000000000002a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000002a        0xc /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000036       0x16 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+                0x0000000000000036                __do_copy_data
+ .init4         0x000000000000004c       0x10 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+                0x000000000000004c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000000000005c       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+                0x000000000000005c                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000070        0x4 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000074        0x2 /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+                0x0000000000000074                __vector_1
+                0x0000000000000074                __vector_12
+                0x0000000000000074                __bad_interrupt
+                0x0000000000000074                __vector_6
+                0x0000000000000074                __vector_3
+                0x0000000000000074                __vector_11
+                0x0000000000000074                __vector_13
+                0x0000000000000074                __vector_17
+                0x0000000000000074                __vector_7
+                0x0000000000000074                __vector_5
+                0x0000000000000074                __vector_4
+                0x0000000000000074                __vector_9
+                0x0000000000000074                __vector_2
+                0x0000000000000074                __vector_15
+                0x0000000000000074                __vector_8
+                0x0000000000000074                __vector_14
+                0x0000000000000074                __vector_10
+                0x0000000000000074                __vector_16
+                0x0000000000000074                __vector_18
+                0x0000000000000076                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x0000000000000076       0x68 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x0000000000000076                main
+ .text._Z8multiplyIK6MatrixIhLh13ELh13EES2_S0_ImLh13ELh13EEEvRT_RT0_RT1_
+                0x00000000000000de      0x1c2 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x00000000000000de                _Z8multiplyIK6MatrixIhLh13ELh13EES2_S0_ImLh13ELh13EEEvRT_RT0_RT1_
+ .text._Z19printMatrixToSerialI6MatrixImLh13ELh13EEEvRT_
+                0x00000000000002a0       0xfc CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x00000000000002a0                _Z19printMatrixToSerialI6MatrixImLh13ELh13EEEvRT_
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x000000000000039c       0x56 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .text._GLOBAL__sub_I_Serial
+                0x00000000000003f2       0x18 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .text._GLOBAL__sub_D_Serial
+                0x000000000000040a       0x18 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .text.libgcc.div
+                0x0000000000000422       0x28 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+                0x0000000000000422                __udivmodhi4
+ .text.libgcc   0x000000000000044a        0xc /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+                0x000000000000044a                __tablejump2__
+                0x0000000000000456                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000456        0x0 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+                0x0000000000000456                exit
+                0x0000000000000456                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x0000000000000456       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+                0x0000000000000456                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000046a        0x4 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x000000000000046e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x000000000000046e                _etext = .
+
+.data           0x0000000000800060      0x444 load address 0x000000000000046e
+                0x0000000000800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060      0x2d6 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x0000000000800060                result
+                0x0000000000800308                AExample
+                0x0000000000800310                BExample
+                0x000000000080031a                resultExample
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000800336      0x16d CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00000000008004a4                . = ALIGN (0x2)
+ *fill*         0x00000000008004a3        0x1 
+                0x00000000008004a4                _edata = .
+                0x00000000008004a4                PROVIDE (__data_end = .)
+
+.bss            0x00000000008004a4       0x1f
+                0x00000000008004a4                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00000000008004a4       0x1f CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                0x00000000008004a4                Serial
+ *(.bss*)
+ *(COMMON)
+                0x00000000008004c3                PROVIDE (__bss_end = .)
+                0x000000000000046e                __data_load_start = LOADADDR (.data)
+                0x00000000000008b2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008004c3        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00000000008004c3                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                                         0x12 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x128
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x48 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .debug_aranges
+                0x0000000000000048       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000068       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000088       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .debug_aranges
+                0x0000000000000108       0x20 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0xcc6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x48c /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .debug_info    0x000000000000048c      0x730 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .debug_info    0x0000000000000bbc       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000000be2       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .debug_info    0x0000000000000c08       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .debug_info    0x0000000000000c2e       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .debug_info    0x0000000000000c54       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .debug_info    0x0000000000000c7a       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .debug_info    0x0000000000000ca0       0x26 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+.debug_abbrev   0x0000000000000000      0x74d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x44e /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .debug_abbrev  0x000000000000044e      0x273 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .debug_abbrev  0x00000000000006c1       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000000000006d5       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000006e9       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000006fd       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x0000000000000711       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .debug_abbrev  0x0000000000000725       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .debug_abbrev  0x0000000000000739       0x14 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+.debug_line     0x0000000000000000      0x73e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .debug_line    0x000000000000001d      0x33c CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+ .debug_line    0x0000000000000359       0xcd /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000000426       0x61 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .debug_line    0x0000000000000487       0x97 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .debug_line    0x000000000000051e       0x85 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000000005a3       0x91 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .debug_line    0x0000000000000634       0x91 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .debug_line    0x00000000000006c5       0x79 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+.debug_frame    0x0000000000000000       0xdc
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xdc CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+
+.debug_str      0x0000000000000000      0x71e
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x17a /usr/local/avr/lib/gcc/avr/8.2.0/../../../../avr/lib/avr4/crtatmega8.o
+ .debug_str     0x000000000000017a      0x532 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+                                        0x572 (size before relaxing)
+ .debug_str     0x00000000000006ac       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_udivmodhi4.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_exit.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_copy_data.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_clear_bss.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_ctors.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_dtors.o)
+ .debug_str     0x000000000000071e       0x72 /usr/local/avr/lib/gcc/avr/8.2.0/avr4/libgcc.a(_tablejump2.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x38
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/matMultiply-atmega8.elf.dir/main.cpp.obj
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(matMultiply-atmega8.elf elf32-avr)
+LOAD linker stubs

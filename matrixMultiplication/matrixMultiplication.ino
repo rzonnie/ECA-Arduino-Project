@@ -69,13 +69,13 @@ void printMatrixToSerial(T& matrix) {
   Serial.println("Matrix = ");
   for (size_t i = 0; i < matrix.size; i++) {
     if (i % matrix.cols == 0) {
-      Serial.print("\t[");
+      Serial.print("\t");
     }
 
     Serial.print(*(contentPointer + i));
 
     if (i % matrix.cols == matrix.cols - 1) {
-      Serial.println("],");
+      Serial.println(",");
     } else {
       Serial.print(",\t");
     }
